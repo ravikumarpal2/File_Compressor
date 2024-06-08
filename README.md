@@ -1,0 +1,1 @@
+This project implements Huffman Encoding, a popular algorithm used for lossless data compression. It includes functionalities to encode a string into its Huffman-coded binary representation and to decode it back to the original string. Additionally, it calculates the compression rate achieved through the encoding process.
